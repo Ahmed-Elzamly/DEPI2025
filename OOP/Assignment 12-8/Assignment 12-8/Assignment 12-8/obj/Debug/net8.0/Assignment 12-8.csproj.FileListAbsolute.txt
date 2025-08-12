@@ -1,0 +1,14 @@
+C:\Users\TESTN\OneDrive\Desktop\DEPI\OOP\Assignment 12-8\Assignment 12-8\Assignment 12-8\bin\Debug\net8.0\Assignment 12-8.exe
+C:\Users\TESTN\OneDrive\Desktop\DEPI\OOP\Assignment 12-8\Assignment 12-8\Assignment 12-8\bin\Debug\net8.0\Assignment 12-8.deps.json
+C:\Users\TESTN\OneDrive\Desktop\DEPI\OOP\Assignment 12-8\Assignment 12-8\Assignment 12-8\bin\Debug\net8.0\Assignment 12-8.runtimeconfig.json
+C:\Users\TESTN\OneDrive\Desktop\DEPI\OOP\Assignment 12-8\Assignment 12-8\Assignment 12-8\bin\Debug\net8.0\Assignment 12-8.dll
+C:\Users\TESTN\OneDrive\Desktop\DEPI\OOP\Assignment 12-8\Assignment 12-8\Assignment 12-8\bin\Debug\net8.0\Assignment 12-8.pdb
+C:\Users\TESTN\OneDrive\Desktop\DEPI\OOP\Assignment 12-8\Assignment 12-8\Assignment 12-8\obj\Debug\net8.0\Assignment 12-8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TESTN\OneDrive\Desktop\DEPI\OOP\Assignment 12-8\Assignment 12-8\Assignment 12-8\obj\Debug\net8.0\Assignment 12-8.AssemblyInfoInputs.cache
+C:\Users\TESTN\OneDrive\Desktop\DEPI\OOP\Assignment 12-8\Assignment 12-8\Assignment 12-8\obj\Debug\net8.0\Assignment 12-8.AssemblyInfo.cs
+C:\Users\TESTN\OneDrive\Desktop\DEPI\OOP\Assignment 12-8\Assignment 12-8\Assignment 12-8\obj\Debug\net8.0\Assignment 12-8.csproj.CoreCompileInputs.cache
+C:\Users\TESTN\OneDrive\Desktop\DEPI\OOP\Assignment 12-8\Assignment 12-8\Assignment 12-8\obj\Debug\net8.0\Assignment 12-8.dll
+C:\Users\TESTN\OneDrive\Desktop\DEPI\OOP\Assignment 12-8\Assignment 12-8\Assignment 12-8\obj\Debug\net8.0\refint\Assignment 12-8.dll
+C:\Users\TESTN\OneDrive\Desktop\DEPI\OOP\Assignment 12-8\Assignment 12-8\Assignment 12-8\obj\Debug\net8.0\Assignment 12-8.pdb
+C:\Users\TESTN\OneDrive\Desktop\DEPI\OOP\Assignment 12-8\Assignment 12-8\Assignment 12-8\obj\Debug\net8.0\Assignment 12-8.genruntimeconfig.cache
+C:\Users\TESTN\OneDrive\Desktop\DEPI\OOP\Assignment 12-8\Assignment 12-8\Assignment 12-8\obj\Debug\net8.0\ref\Assignment 12-8.dll
