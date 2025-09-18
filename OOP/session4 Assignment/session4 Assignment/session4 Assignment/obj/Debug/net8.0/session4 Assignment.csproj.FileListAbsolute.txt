@@ -1,0 +1,14 @@
+C:\Users\TESTN\OneDrive\Desktop\DEPI\OOP\session4 Assignment\session4 Assignment\session4 Assignment\bin\Debug\net8.0\session4 Assignment.exe
+C:\Users\TESTN\OneDrive\Desktop\DEPI\OOP\session4 Assignment\session4 Assignment\session4 Assignment\bin\Debug\net8.0\session4 Assignment.deps.json
+C:\Users\TESTN\OneDrive\Desktop\DEPI\OOP\session4 Assignment\session4 Assignment\session4 Assignment\bin\Debug\net8.0\session4 Assignment.runtimeconfig.json
+C:\Users\TESTN\OneDrive\Desktop\DEPI\OOP\session4 Assignment\session4 Assignment\session4 Assignment\bin\Debug\net8.0\session4 Assignment.dll
+C:\Users\TESTN\OneDrive\Desktop\DEPI\OOP\session4 Assignment\session4 Assignment\session4 Assignment\bin\Debug\net8.0\session4 Assignment.pdb
+C:\Users\TESTN\OneDrive\Desktop\DEPI\OOP\session4 Assignment\session4 Assignment\session4 Assignment\obj\Debug\net8.0\session4 Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TESTN\OneDrive\Desktop\DEPI\OOP\session4 Assignment\session4 Assignment\session4 Assignment\obj\Debug\net8.0\session4 Assignment.AssemblyInfoInputs.cache
+C:\Users\TESTN\OneDrive\Desktop\DEPI\OOP\session4 Assignment\session4 Assignment\session4 Assignment\obj\Debug\net8.0\session4 Assignment.AssemblyInfo.cs
+C:\Users\TESTN\OneDrive\Desktop\DEPI\OOP\session4 Assignment\session4 Assignment\session4 Assignment\obj\Debug\net8.0\session4 Assignment.csproj.CoreCompileInputs.cache
+C:\Users\TESTN\OneDrive\Desktop\DEPI\OOP\session4 Assignment\session4 Assignment\session4 Assignment\obj\Debug\net8.0\session4 Assignment.dll
+C:\Users\TESTN\OneDrive\Desktop\DEPI\OOP\session4 Assignment\session4 Assignment\session4 Assignment\obj\Debug\net8.0\refint\session4 Assignment.dll
+C:\Users\TESTN\OneDrive\Desktop\DEPI\OOP\session4 Assignment\session4 Assignment\session4 Assignment\obj\Debug\net8.0\session4 Assignment.pdb
+C:\Users\TESTN\OneDrive\Desktop\DEPI\OOP\session4 Assignment\session4 Assignment\session4 Assignment\obj\Debug\net8.0\session4 Assignment.genruntimeconfig.cache
+C:\Users\TESTN\OneDrive\Desktop\DEPI\OOP\session4 Assignment\session4 Assignment\session4 Assignment\obj\Debug\net8.0\ref\session4 Assignment.dll
