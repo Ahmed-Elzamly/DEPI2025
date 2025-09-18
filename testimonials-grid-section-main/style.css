@@ -1,0 +1,116 @@
+body {
+  font-family: 'Barlow Semi Condensed', Arial, sans-serif;
+  background-color: hsl(260, 100%, 95%);
+  font-size: 13px;
+  min-height: 100vh;
+}
+
+
+.testimonials-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  max-width: 1100px;
+  margin: 3rem auto;
+  padding: 1rem;
+}
+
+@media (min-width: 992px) {
+  .testimonials-grid {
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-areas:
+      "daniel daniel jonathan kira"
+      "jeanette patrick patrick kira";
+  }
+  .testimonial.daniel { grid-area: daniel; }
+  .testimonial.jonathan { grid-area: jonathan; }
+  .testimonial.kira { grid-area: kira; }
+  .testimonial.jeanette { grid-area: jeanette; }
+  .testimonial.patrick { grid-area: patrick; }
+}
+
+.testimonial {
+  background: white;
+  border-radius: 1rem;
+  padding: 2rem;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.07);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+
+/* Card backgrounds based on preview */
+.testimonial.daniel {
+  background: linear-gradient(135deg, hsl(263, 55%, 52%), hsl(264, 82%, 80%));
+  color: white;
+  position: relative;
+}
+.testimonial.daniel .quote-bg {
+  position: absolute;
+  top: 2rem;
+  right: 2rem;
+  width: 100px;
+  opacity: 0.2;
+  pointer-events: none;
+  z-index: 0;
+}
+.testimonial.jonathan {
+  background: hsl(219, 29%, 14%);
+  color: white;
+}
+.testimonial.kira {
+  background: white;
+  color: hsl(219, 29%, 14%);
+  grid-row: span 2;
+}
+.testimonial.jeanette {
+  background: white;
+  color: hsl(219, 29%, 14%);
+}
+.testimonial.patrick {
+  background: hsl(217, 19%, 35%);
+  color: white;
+}
+
+.testimonial .profile {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+.testimonial .profile img {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  margin-right: 1rem;
+  border: 2px solid white;
+}
+
+.testimonial .profile .name {
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.testimonial .profile .status {
+  font-size: 0.85rem;
+  opacity: 0.7;
+}
+
+.testimonial .quote {
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
+
+.testimonial .details {
+  font-size: 0.95rem;
+  opacity: 0.85;
+}
+
+
+/* Attribution styling */
+.attribution { font-size: 11px; text-align: center; margin-top: 2rem; }
+.attribution a { color: hsl(228, 45%, 44%); }
